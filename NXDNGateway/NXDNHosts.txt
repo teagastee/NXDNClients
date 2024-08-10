@@ -1,7 +1,8 @@
 # NXDNHosts.txt
 #
 # The format of this file is the number of the Talk Group followed by the host name or address and port
-#
+# 31611 XPR Pinoy Network
+31611 198.13.41.243 41400
 
 # 14 www.spanish BY radiomania.net
 14	nxdn14.nxdn.es	41400
